@@ -1,0 +1,35 @@
+USE Heydi;
+
+INSERT INTO Authors (Name, Lastname, Country, Birthdate)
+    VALUES 
+    ('Irene', 'Vallejo', 'España', '1979-06-06'),
+    ('Sarah', 'Maas', 'EEUU', '1986-03-05'),
+    ('Mario', 'Mendoza', 'Colombia', '1964-01-10'),
+    ('Hector', 'Abad Faciolince', 'Colombia', '1958-10-01'),
+    ('Laura', 'Restrepo', 'Colombia', '1950-01-01'),
+    ('Piedad', 'Bonnet', 'Colombia', '1951-01-01'),
+    ('Fernando', 'Vallejo', 'Colombia', '1942-10-24'),
+    ('Antonio', 'Caballero', 'Colombia', '1945-05-15'),
+    ('William', 'Ospina', 'Colombia', '1954-03-02'),
+    ('Juan Gabriel', 'Vasquez', 'Colombia', '1973-01-01'),
+    ('Santiago', 'Gamboa', 'Colombia', '1965-01-01'),
+    ('Angela', 'Becerra', 'Colombia', '1957-07-17'),
+    ('Stephen', 'King', 'EEUU', '1947-09-21'),
+    ('Anne', 'Rice', 'EEUU', '1941-10-04'),
+    ('Jeff', 'Vandermeer', 'EEUU', '1968-07-07'),
+    ('Liu', 'Cixin', 'China', '1963-06-30'),
+    ('Fyodor', 'Dostoevsky', 'Rusia', '1821-11-11'),
+    ('Leo', 'Tolstoy', 'Rusia', '1828-09-09'),
+    ('Anton', 'Chekhov', 'Rusia', '1860-01-29'),
+    ('Isaac', 'Asimov', 'Rusia', '1920-01-02'),
+    ('Rudyard', 'Kipling', 'India', '1865-12-30'),
+    ('Jon Ronald Reuel', 'Tolkien', 'Surafrica', '1892-01-03'),
+    ('Clive Staples', 'Lewis', 'Reino Unido', '1898-11-29'),
+    ('George Raymond Richard', 'Martin', 'EEUU', '1948-09-20'),
+    ('Frank', 'Herbert', 'EEUU', '1920-10-08'),
+    ('Albert', 'Camus', 'France', '1913-11-07'),
+    ('Margaret', 'Atwood', 'Canada', '1939-11-18'),
+    ('Mary', 'Shelley', 'Inglaterra', '1797-08-30'),
+    ('Agatha', 'Christie', 'Inglaterra', '1890-09-15'),
+    ('Ursula K', 'Le Guin', 'EEUU', '1929-10-21');
+    
